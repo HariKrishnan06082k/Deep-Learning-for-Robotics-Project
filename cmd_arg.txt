@@ -1,0 +1,1 @@
+python contact_graspnet/inference.py --np_path=/home/hariksee/Desktop/contact_graspnet/test_data/npy_files/bowl_1.npy --forward_passes=5  --z_range=[0.2,1.1]
